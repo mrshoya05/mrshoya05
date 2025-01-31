@@ -1,44 +1,46 @@
-<h1 align="center" style="font-family: 'Courier New', Courier, monospace; color: #00FF00;">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> 
+<h1 align="center" style="font-family: 'Courier New', monospace; color: #00FF00; text-shadow: 0px 0px 10px #00FF00;">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />
   Hi, I'm Shoyab Khan
 </h1>
 
-<h3 align="center" style="font-family: 'Courier New', Courier, monospace; color: #0ef5b2; text-shadow: 2px 2px 5px rgba(0, 255, 0, 0.7);">Fullstack Developer | Hacker at Heart</h3>
+<h3 align="center" style="font-family: 'Courier New', monospace; color: #66FF66;">
+  Fullstack Developer | Coding Ninja | Problem Solver
+</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mrshoya05&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF00FF&width=500&lines=JavaScript+%7C+React+%7C+Node.js+%7C+MongoDB+%7C+MySQL;Hacking+the+Code+%7C+AI+Enthusiast" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF00&width=500&lines=JavaScript%7CReact%7CNode.js%7CMySQL%7CMongoDB" alt="Typing SVG" />
 </p>
 
 ---
 
-<h3 align="center" style="font-family: 'Courier New', Courier, monospace; color: #00FFFF;">About Me</h3>
+<h3 align="center" style="color: #00FF00; font-family: 'Courier New', monospace;">About Me</h3>
 
-<p align="center" style="font-family: 'Courier New', Courier, monospace; color: #FF6347; text-shadow: 1px 1px 4px #00FF00;">
-  <img src="https://i.pinimg.com/originals/37/96/f2/3796f2a2a09d6eaa07911c6bc0f0905c.png" width="80" height="80" style="border-radius: 50%; border: 3px solid #FF00FF; animation: glow 1.5s ease-in-out infinite alternate;" />
+<p align="center" style="font-family: 'Courier New', monospace; color: #66FF66; text-shadow: 0px 0px 10px #00FF00;">
+  <img src="https://avatars.githubusercontent.com/u/59237070?v=4" width="90" height="90" style="border-radius: 50%; border: 2px solid #00FF00;" />
 </p>
 
-<p align="center" style="font-family: 'Courier New', Courier, monospace; color: #00FF00;">
-  💬 Ask me about: **JavaScript**, **React**, **Node.js**, **HTML**, **CSS**<br>
+<p align="center" style="font-family: 'Courier New', monospace; color: #00FF00;">
+  💬 Ask me about **JavaScript**, **React**, **Node.js**, **HTML**, **CSS**<br>
   📫 Reach me at: **shoyabkhan0508@gmail.com**<br>
-  🌱 Currently learning: **Redux Toolkit**, **Advanced Node.js**
+  🌱 Currently learning **Redux Toolkit**, **Advanced Node.js**
 </p>
 
 ---
 
-<h3 align="center" style="font-family: 'Courier New', Courier, monospace; color: #FF6347;">Languages and Tools</h3>
+<h3 align="center" style="color: #00FF00; font-family: 'Courier New', monospace;">Languages and Tools</h3>
 <p align="center">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
   </a>
   <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
   </a>
-  <a href="https://cython.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Cython" width="40" height="40"/>
+  <a href="https://python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
   </a>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
@@ -65,7 +67,7 @@
 
 ---
 
-<h3 align="center" style="font-family: 'Courier New', Courier, monospace; color: #00FF00;">Stats</h3>
+<h3 align="center" style="color: #00FF00; font-family: 'Courier New', monospace;">Stats</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrshoya05&show_icons=true&locale=en&layout=compact&theme=radical" alt="mrshoya05" />
@@ -81,7 +83,7 @@
 
 ---
 
-<h3 align="center" style="color: #FF6347; font-family: 'Courier New', Courier, monospace;">Terminal Output for Shoyab</h3>
+<h3 align="center" style="color: #00FF00; font-family: 'Courier New', monospace;">Terminal Output for Shoyab</h3>
 
 ```bash
 👨‍💻  /dev/shoyab$ whoami
