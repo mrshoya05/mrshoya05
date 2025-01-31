@@ -1,101 +1,188 @@
-<h1 align="center" style="color: #00FF00; font-family: 'Courier New', monospace; text-shadow: 0 0 20px #00FF00, 0 0 30px #00FF00;">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />
-  Hi, I'm Shoyab Khan
-</h1>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Shoyab Khan's Profile</title>
+  <!-- External Libraries for Styling -->
+  <link href="https://fonts.googleapis.com/css2?family=Orbitron&family=Press+Start+2P&display=swap" rel="stylesheet">
+  <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" rel="stylesheet">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/animate.css/4.1.1/animate.min.css" />
 
-<h3 align="center" style="font-family: 'Courier New', monospace; color: #00FFFF; text-shadow: 0px 0px 15px #00FFFF;">
-  Fullstack Developer | JavaScript Enthusiast | Problem Solver
-</h3>
+  <style>
+    body {
+      font-family: 'Orbitron', sans-serif;
+      background-color: #1a1a1a;
+      color: #00FF00;
+      margin: 0;
+      padding: 0;
+      overflow-x: hidden;
+    }
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mrshoya05&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</p>
+    h1, h3, p {
+      text-align: center;
+      text-shadow: 0 0 10px #00FF00, 0 0 20px #00FF00;
+    }
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00FF00&width=500&lines=JavaScript%7CReact%7CNode.js%7CMySQL%7CMongoDB" alt="Typing SVG" />
-</p>
+    h1 {
+      font-size: 3em;
+      margin-top: 20px;
+    }
 
----
+    h3 {
+      font-size: 2em;
+      margin-top: 10px;
+    }
 
-<h3 align="center" style="color: #00FF00; font-family: 'Courier New', monospace;">About Me</h3>
+    .typing {
+      font-size: 1.5em;
+      color: #00FFFF;
+      animation: typing 3s steps(30) 1s forwards, blink .75s step-end infinite;
+    }
 
-<p align="center" style="font-family: 'Courier New', monospace; color: #00FFFF; text-shadow: 0 0 10px #00FFFF;">
-  <img src="https://avatars.githubusercontent.com/u/59237070?v=4" width="120" height="120" style="border-radius: 50%; border: 5px solid #00FF00;" />
-</p>
+    @keyframes typing {
+      from {
+        width: 0;
+      }
+      to {
+        width: 100%;
+      }
+    }
 
-<p align="center" style="font-family: 'Courier New', monospace; color: #00FF00;">
-  💬 Ask me about **JavaScript**, **React**, **Node.js**, **HTML**, **CSS**<br>
-  📫 Reach me at: **shoyabkhan0508@gmail.com**<br>
-  🌱 Currently learning **Redux Toolkit**, **Advanced Node.js**
-</p>
+    @keyframes blink {
+      50% {
+        border-color: transparent;
+      }
+    }
 
----
+    /* Glowing Neon Effect for Buttons and Icons */
+    .glow-on-hover {
+      width: 200px;
+      height: 50px;
+      border-radius: 10px;
+      background: black;
+      border: 2px solid #00FF00;
+      color: #00FF00;
+      font-size: 20px;
+      font-family: 'Press Start 2P', cursive;
+      position: relative;
+      cursor: pointer;
+      overflow: hidden;
+      box-shadow: 0 0 10px #00FF00, 0 0 20px #00FF00;
+      transition: all 0.3s ease;
+    }
 
-<h3 align="center" style="color: #00FF00; font-family: 'Courier New', monospace;">Skills & Tools</h3>
-<p align="center">
-  <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>
-  </a>
-  <a href="https://python.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40"/>
-  </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40"/>
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  </a>
-  <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React" width="40" height="40"/>
-  </a>
-  <a href="https://nodejs.org" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/>
-  </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/>
-  </a>
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
-  </a>
-</p>
+    .glow-on-hover:hover {
+      background-color: #00FF00;
+      color: black;
+      box-shadow: 0 0 20px #00FF00, 0 0 40px #00FF00;
+    }
 
----
+    .container {
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      height: 100vh;
+      flex-direction: column;
+    }
 
-<h3 align="center" style="color: #00FF00; font-family: 'Courier New', monospace;">GitHub Stats</h3>
+    .icon {
+      font-size: 30px;
+      margin: 10px;
+      transition: transform 0.2s;
+    }
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrshoya05&show_icons=true&locale=en&layout=compact&theme=radical" alt="mrshoya05" />
-</p>
+    .icon:hover {
+      transform: scale(1.2);
+      color: #00FFFF;
+    }
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mrshoya05&show_icons=true&locale=en&theme=radical" alt="mrshoya05" />
-</p>
+    /* Skill cards */
+    .card {
+      width: 200px;
+      margin: 20px;
+      padding: 20px;
+      background: #2a2a2a;
+      border-radius: 10px;
+      text-align: center;
+      box-shadow: 0 0 15px rgba(0, 255, 255, 0.6);
+    }
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mrshoya05&theme=radical" alt="mrshoya05" />
-</p>
+    .card img {
+      width: 50px;
+      height: 50px;
+      margin-bottom: 15px;
+    }
 
----
+    /* Footer */
+    footer {
+      position: absolute;
+      bottom: 0;
+      width: 100%;
+      padding: 10px;
+      text-align: center;
+      background-color: #1a1a1a;
+      color: #00FF00;
+    }
 
-<h3 align="center" style="color: #00FF00; font-family: 'Courier New', monospace;">Terminal Output</h3>
+  </style>
+</head>
+<body>
+  <div class="container">
+    <h1 class="animate__animated animate__fadeInDown">Hi, I'm Shoyab Khan</h1>
+    <h3 class="typing">Fullstack Developer | JavaScript Enthusiast</h3>
+    <p>I'm passionate about building cool projects with the latest tech!</p>
 
-```bash
-$ whoami
-shoyab_khan
+    <button class="glow-on-hover">Contact Me</button>
 
-$ skills
-JavaScript | Node.js | React | MongoDB | MySQL
+    <div class="skills">
+      <h3>Skills</h3>
+      <div class="card">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript">
+        <p>JavaScript</p>
+      </div>
+      <div class="card">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="React">
+        <p>React</p>
+      </div>
+      <div class="card">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js">
+        <p>Node.js</p>
+      </div>
+    </div>
 
-$ work
-Building full-stack applications, problem-solving, and learning new tech!
+    <footer>
+      <p>&copy; 2025 Shoyab Khan | All Rights Reserved</p>
+    </footer>
+  </div>
 
-$ contact
-shoyabkhan0508@gmail.com
-
-$ exit
+  <!-- External Scripts -->
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+  <script src="https://cdn.jsdelivr.net/npm/particles.js"></script>
+  
+  <script>
+    // Particles.js to create a cool background effect
+    particlesJS("particles-js", {
+      "particles": {
+        "number": {
+          "value": 50
+        },
+        "color": {
+          "value": "#00FF00"
+        },
+        "shape": {
+          "type": "circle"
+        },
+        "size": {
+          "value": 3
+        },
+        "move": {
+          "speed": 1,
+          "direction": "none",
+          "out_mode": "out"
+        }
+      }
+    });
+  </script>
+</body>
+</html>
