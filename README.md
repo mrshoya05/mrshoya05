@@ -20,7 +20,7 @@
 <h3 align="center" style="color: #00FF00; font-family: 'Courier New', monospace;">About Me</h3>
 
 <p align="center" style="font-family: 'Courier New', monospace; color: #66FF66; text-shadow: 0px 0px 10px #00FF00;">
-  <img src="[[https://avatars.githubusercontent.com/u/59237070?v=4](https://avatars.githubusercontent.com/u/129213723?v=4)](https://avatars.githubusercontent.com/u/129213723?v=4)" width="90" height="90" style="border-radius: 50%; border: 2px solid #00FF00;" />
+  <img src="https://avatars.githubusercontent.com/u/129213723?v=4" width="90" height="90" style="border-radius: 50%; border: 2px solid #00FF00;" />
 </p>
 
 <p align="center" style="font-family: 'Courier New', monospace; color: #00FF00;">
