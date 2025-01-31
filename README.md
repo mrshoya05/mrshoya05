@@ -1,34 +1,35 @@
-<h1 align="center">
-  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />
-  <span style="color:#00FF00; font-family: 'Courier New', Courier, monospace;">Hi, I'm Shoyab Khan</span>
+<h1 align="center" style="font-family: 'Courier New', Courier, monospace; color: #00FF00;">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" /> 
+  Hi, I'm Shoyab Khan
 </h1>
-<h3 align="center" style="font-family: 'Courier New', Courier, monospace; color: #00FF00;">A passionate Fullstack Developer from India</h3>
+
+<h3 align="center" style="font-family: 'Courier New', Courier, monospace; color: #0ef5b2; text-shadow: 2px 2px 5px rgba(0, 255, 0, 0.7);">Fullstack Developer | Hacker at Heart</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mrshoya05&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00BFFF&width=435&lines=JavaScript+%7C+React+%7C+Node.js+%7C+MongoDB+%7C+MySQL" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=FF00FF&width=500&lines=JavaScript+%7C+React+%7C+Node.js+%7C+MongoDB+%7C+MySQL;Hacking+the+Code+%7C+AI+Enthusiast" alt="Typing SVG" />
 </p>
 
 ---
 
-<h3 align="center" style="color: #FF1493;">About Me</h3>
+<h3 align="center" style="font-family: 'Courier New', Courier, monospace; color: #00FFFF;">About Me</h3>
 
-<p align="center">
-  <img src="https://i.pinimg.com/originals/37/96/f2/3796f2a2a09d6eaa07911c6bc0f0905c.png" width="60" height="60" style="border-radius: 50%; border: 2px solid #00FF00;"/>
+<p align="center" style="font-family: 'Courier New', Courier, monospace; color: #FF6347; text-shadow: 1px 1px 4px #00FF00;">
+  <img src="https://i.pinimg.com/originals/37/96/f2/3796f2a2a09d6eaa07911c6bc0f0905c.png" width="80" height="80" style="border-radius: 50%; border: 3px solid #FF00FF; animation: glow 1.5s ease-in-out infinite alternate;" />
 </p>
 
 <p align="center" style="font-family: 'Courier New', Courier, monospace; color: #00FF00;">
-  <b>💬 Ask me about:</b> <code>JavaScript, React, Node.js, HTML, CSS</code><br>
-  <b>📫 How to reach me:</b> <code>shoyabkhan0508@gmail.com</code><br>
-  <b>🌱 Currently learning:</b> <code>Redux Toolkit, Advanced Node.js</code>
+  💬 Ask me about: **JavaScript**, **React**, **Node.js**, **HTML**, **CSS**<br>
+  📫 Reach me at: **shoyabkhan0508@gmail.com**<br>
+  🌱 Currently learning: **Redux Toolkit**, **Advanced Node.js**
 </p>
 
 ---
 
-<h3 align="center" style="color: #FF1493;">Languages and Tools</h3>
+<h3 align="center" style="font-family: 'Courier New', Courier, monospace; color: #FF6347;">Languages and Tools</h3>
 <p align="center">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
@@ -60,14 +61,11 @@
   <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/>
   </a>
-  <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/>
-  </a>
 </p>
 
 ---
 
-<h3 align="center" style="color: #00FF00;">Tech Stats</h3>
+<h3 align="center" style="font-family: 'Courier New', Courier, monospace; color: #00FF00;">Stats</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrshoya05&show_icons=true&locale=en&layout=compact&theme=radical" alt="mrshoya05" />
@@ -83,7 +81,7 @@
 
 ---
 
-### 👨‍💻  Terminal Output for Shoyab
+<h3 align="center" style="color: #FF6347; font-family: 'Courier New', Courier, monospace;">Terminal Output for Shoyab</h3>
 
 ```bash
 👨‍💻  /dev/shoyab$ whoami
