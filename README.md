@@ -1,10 +1,10 @@
-<h1 align="center" style="font-family: 'Courier New', monospace; color: #00FF00; text-shadow: 0px 0px 10px #00FF00;">
-  <img src="https://scontent-bom1-1.cdninstagram.com/v/t51.2885-19/474664420_2210270459370715_8645131883983596901_n.jpg?stp=dst-jpg_s150x150_tt6&_nc_ht=scontent-bom1-1.cdninstagram.com&_nc_cat=107&_nc_ohc=nSE05I_5Z9UQ7kNvgGG2ZBr&_nc_gid=d3247665702e426fa027ea4384ec84d6&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AYA2-dmVdqOpzJ7-rdtsfWJiAOtLRmqK5WBN6dQf34tzQg&oe=67A25F46&_nc_sid=8b3546" />
+<h1 align="center" style="color: #00FF00; font-family: 'Courier New', monospace; text-shadow: 0 0 20px #00FF00, 0 0 30px #00FF00;">
+  <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px" />
   Hi, I'm Shoyab Khan
 </h1>
 
-<h3 align="center" style="font-family: 'Courier New', monospace; color: #66FF66;">
-  Fullstack Developer | Problem Solver
+<h3 align="center" style="font-family: 'Courier New', monospace; color: #00FFFF; text-shadow: 0px 0px 15px #00FFFF;">
+  Fullstack Developer | JavaScript Enthusiast | Problem Solver
 </h3>
 
 <p align="center">
@@ -19,8 +19,8 @@
 
 <h3 align="center" style="color: #00FF00; font-family: 'Courier New', monospace;">About Me</h3>
 
-<p align="center" style="font-family: 'Courier New', monospace; color: #66FF66; text-shadow: 0px 0px 10px #00FF00;">
-  <img src="https://avatars.githubusercontent.com/u/129213723?v=4" width="90" height="90" style="border-radius: 50%; border: 2px solid #00FF00;" />
+<p align="center" style="font-family: 'Courier New', monospace; color: #00FFFF; text-shadow: 0 0 10px #00FFFF;">
+  <img src="https://avatars.githubusercontent.com/u/59237070?v=4" width="120" height="120" style="border-radius: 50%; border: 5px solid #00FF00;" />
 </p>
 
 <p align="center" style="font-family: 'Courier New', monospace; color: #00FF00;">
@@ -31,7 +31,7 @@
 
 ---
 
-<h3 align="center" style="color: #00FF00; font-family: 'Courier New', monospace;">Languages and Tools</h3>
+<h3 align="center" style="color: #00FF00; font-family: 'Courier New', monospace;">Skills & Tools</h3>
 <p align="center">
   <a href="https://getbootstrap.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original-wordmark.svg" alt="Bootstrap" width="40" height="40"/>
@@ -67,7 +67,7 @@
 
 ---
 
-<h3 align="center" style="color: #00FF00; font-family: 'Courier New', monospace;">Stats</h3>
+<h3 align="center" style="color: #00FF00; font-family: 'Courier New', monospace;">GitHub Stats</h3>
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mrshoya05&show_icons=true&locale=en&layout=compact&theme=radical" alt="mrshoya05" />
@@ -83,19 +83,19 @@
 
 ---
 
-<h3 align="center" style="color: #00FF00; font-family: 'Courier New', monospace;">Terminal Output for Shoyab</h3>
+<h3 align="center" style="color: #00FF00; font-family: 'Courier New', monospace;">Terminal Output</h3>
 
 ```bash
-👨‍💻  /dev/shoyab$ whoami
+$ whoami
 shoyab_khan
 
-👨‍💻  /dev/shoyab$ skills
+$ skills
 JavaScript | Node.js | React | MongoDB | MySQL
 
-👨‍💻  /dev/shoyab$ work
-Building full-stack applications and solving complex problems!
+$ work
+Building full-stack applications, problem-solving, and learning new tech!
 
-👨‍💻  /dev/shoyab$ contact
+$ contact
 shoyabkhan0508@gmail.com
 
-👨‍💻  /dev/shoyab$ exit
+$ exit
